@@ -1,0 +1,20 @@
+{
+  "name": "vendor_name/pest_example",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "elhjuojy",
+      "email": "email@example.com"
+    }
+  ],
+  "require-dev": {
+    "pestphp/pest": "^1.22"
+  },
+  "config": {
+    "allow-plugins": {
+      "pestphp/pest-plugin": true
+    }
+  }
+}
